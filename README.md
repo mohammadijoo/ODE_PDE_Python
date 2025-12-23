@@ -782,9 +782,9 @@ So plotting should not require Tcl/Tk. If you still encounter GUI-backend issues
 At the end of the workflow, you can watch the full implementation and walkthrough on YouTube.
 
 <!-- Replace YOUR_VIDEO_ID with your real YouTube video ID -->
-<a href="https://www.youtube.com/watch?v=YOUR_VIDEO_ID" target="_blank">
+<a href="https://www.youtube.com/watch?v=XvfKpfUC5vI" target="_blank">
   <img
-    src="https://i.ytimg.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg"
+    src="https://i.ytimg.com/vi/XvfKpfUC5vI/maxresdefault.jpg"
     alt="ODE/PDE in Python - Implementation Tutorial"
     style="max-width: 100%; border-radius: 10px; box-shadow: 0 6px 18px rgba(0,0,0,0.18); margin-top: 0.5rem;"
   />
